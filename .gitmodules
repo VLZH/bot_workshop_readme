@@ -1,0 +1,6 @@
+[submodule "workshop_echo_bot"]
+	path = echo_bot
+	url = git@github.com:VLZH/workshop_echo_bot.git
+[submodule "todo_bot"]
+	path = todo_bot
+	url = git@github.com:VLZH/workshop_todo_bot.git
